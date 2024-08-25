@@ -1,7 +1,7 @@
-package com.javatechie.spring.batch.config;
+package com.zackbatch.spring.batch.config;
 
-import com.javatechie.spring.batch.entity.Customer;
-import com.javatechie.spring.batch.repository.CustomerRepository;
+import com.zackbatch.spring.batch.entity.Customer;
+import com.zackbatch.spring.batch.repository.CustomerRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;

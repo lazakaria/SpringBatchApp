@@ -1,6 +1,6 @@
-package com.javatechie.spring.batch.config;
+package com.zackbatch.spring.batch.config;
 
-import com.javatechie.spring.batch.entity.Customer;
+import com.zackbatch.spring.batch.entity.Customer;
 import org.springframework.batch.item.ItemProcessor;
 
 public class CustomerProcessor implements ItemProcessor<Customer, Customer> {
